@@ -1,0 +1,21 @@
+.main{
+    background-color: #283750;
+}
+.icon{
+
+    width: 37px;
+    height: 36px;
+}
+.button{
+    transition: background-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+}
+.button:hover{
+    background-color: #b9091a !important; 
+        opacity: 0.9;
+}
+.card{
+    background-color: #2D4261 !important;
+}   
+/* .color{
+    background-color: #354D71 !important;
+} */
